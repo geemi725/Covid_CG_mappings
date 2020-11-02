@@ -1,1 +1,1 @@
-# Covide_CG_mappings
+# Covid_CG_mappings
