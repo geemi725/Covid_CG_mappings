@@ -1,0 +1,803 @@
+COMPND    2ajf_SPIKE
+TITLE     COARSE-GRAINED MAPPINGS BY DSGPM MODEL
+HETATM      1 CG   RES A   1      10.692  30.914  39.579  1.00  0.00          CG
+HETATM      2 CG   RES A   1      10.549  30.405  39.538  1.00  0.00          CG
+HETATM      3 CG   RES A   1      10.677  30.570  40.077  1.00  0.00          CG
+HETATM      4 CG   RES A   1      10.759  29.459  38.623  1.00  0.00          CG
+HETATM      5 CG   RES A   1      10.599  29.980  39.507  1.00  0.00          CG
+HETATM      6 CG   RES A   1      10.413  27.788  37.473  1.00  0.00          CG
+HETATM      7 CG   RES A   1      10.606  28.430  37.839  1.00  0.00          CG
+HETATM      8 CG   RES A   1      10.694  31.061  40.570  1.00  0.00          CG
+HETATM      9 CG   RES A   1      10.654  29.402  39.117  1.00  0.00          CG
+HETATM     10 CG   RES A   1      10.672  29.193  39.229  1.00  0.00          CG
+HETATM     11 CG   RES A   1      10.142  26.534  36.683  1.00  0.00          CG
+HETATM     12 CG   RES A   1      10.291  25.215  35.039  1.00  0.00          CG
+HETATM     13 CG   RES A   1       9.919  22.214  32.352  1.00  0.00          CG
+HETATM     14 CG   RES A   1       9.577  19.195  29.664  1.00  0.00          CG
+HETATM     15 CG   RES A   1       9.467  17.486  27.959  1.00  0.00          CG
+HETATM     16 CG   RES A   1       9.345  17.148  27.726  1.00  0.00          CG
+HETATM     17 CG   RES A   1       9.136  15.644  26.539  1.00  0.00          CG
+HETATM     18 CG   RES A   1       9.615  19.741  29.833  1.00  0.00          CG
+HETATM     19 CG   RES A   1       9.534  17.534  27.768  1.00  0.00          CG
+HETATM     20 CG   RES A   1       9.721  22.078  31.795  1.00  0.00          CG
+HETATM     21 CG   RES A   1       9.194  21.247  31.657  1.00  0.00          CG
+HETATM     22 CG   RES A   1       9.576  18.987  28.855  1.00  0.00          CG
+HETATM     23 CG   RES A   1      10.049  25.720  35.180  1.00  0.00          CG
+HETATM     24 CG   RES A   1       9.973  23.498  33.197  1.00  0.00          CG
+HETATM     25 CG   RES A   1      10.213  26.202  35.424  1.00  0.00          CG
+HETATM     26 CG   RES A   1      10.131  26.102  35.187  1.00  0.00          CG
+HETATM     27 CG   RES A   1      10.263  28.605  36.844  1.00  0.00          CG
+HETATM     28 CG   RES A   1      10.897  31.953  40.626  1.00  0.00          CG
+HETATM     29 CG   RES A   1      10.884  31.525  40.126  1.00  0.00          CG
+HETATM     30 CG   RES A   1      11.059  33.511  41.624  1.00  0.00          CG
+HETATM     31 CG   RES A   1      11.036  31.407  40.236  1.00  0.00          CG
+HETATM     32 CG   RES A   1      10.552  29.020  37.618  1.00  0.00          CG
+HETATM     33 CG   RES A   1      11.289  33.633  42.262  1.00  0.00          CG
+HETATM     34 CG   RES A   1      11.110  33.106  41.962  1.00  0.00          CG
+HETATM     35 CG   RES A   1      11.268  31.581  40.443  1.00  0.00          CG
+HETATM     36 CG   RES A   1      11.219  29.605  38.415  1.00  0.00          CG
+HETATM     37 CG   RES A   1      11.080  29.812  38.728  1.00  0.00          CG
+HETATM     38 CG   RES A   1      11.615  34.236  42.387  1.00  0.00          CG
+HETATM     39 CG   RES A   1      11.493  32.321  41.443  1.00  0.00          CG
+HETATM     40 CG   RES A   1      11.716  31.808  41.057  1.00  0.00          CG
+HETATM     41 CG   RES A   1      11.185  29.952  39.459  1.00  0.00          CG
+HETATM     42 CG   RES A   1      10.819  31.419  41.135  1.00  0.00          CG
+HETATM     43 CG   RES A   1      11.123  28.906  38.467  1.00  0.00          CG
+HETATM     44 CG   RES A   1      10.858  25.882  35.692  1.00  0.00          CG
+HETATM     45 CG   RES A   1      10.605  23.748  33.264  1.00  0.00          CG
+HETATM     46 CG   RES A   1      10.777  24.518  33.927  1.00  0.00          CG
+HETATM     47 CG   RES A   1      10.892  27.483  36.542  1.00  0.00          CG
+HETATM     48 CG   RES A   1      10.429  22.566  31.851  1.00  0.00          CG
+HETATM     49 CG   RES A   1      10.595  21.728  31.446  1.00  0.00          CG
+HETATM     50 CG   RES A   1      10.360  23.510  33.015  1.00  0.00          CG
+HETATM     51 CG   RES A   1      10.467  20.728  30.166  1.00  0.00          CG
+HETATM     52 CG   RES A   1      10.325  19.255  29.073  1.00  0.00          CG
+HETATM     53 CG   RES A   1      10.439  23.589  32.484  1.00  0.00          CG
+HETATM     54 CG   RES A   1      10.785  25.114  34.491  1.00  0.00          CG
+HETATM     55 CG   RES A   1      10.832  27.937  36.705  1.00  0.00          CG
+HETATM     56 CG   RES A   1      11.147  30.443  39.280  1.00  0.00          CG
+HETATM     57 CG   RES A   1      10.751  30.012  38.369  1.00  0.00          CG
+HETATM     58 CG   RES A   1      10.838  27.419  36.490  1.00  0.00          CG
+HETATM     59 CG   RES A   1      10.570  32.982  40.897  1.00  0.00          CG
+HETATM     60 CG   RES A   1      10.510  29.289  37.467  1.00  0.00          CG
+HETATM     61 CG   RES A   1      10.096  24.226  33.355  1.00  0.00          CG
+HETATM     62 CG   RES A   1      10.002  23.034  32.620  1.00  0.00          CG
+HETATM     63 CG   RES A   1       9.687  20.898  30.193  1.00  0.00          CG
+HETATM     64 CG   RES A   1       9.904  20.760  30.654  1.00  0.00          CG
+HETATM     65 CG   RES A   1       9.928  22.566  32.414  1.00  0.00          CG
+HETATM     66 CG   RES A   1       9.943  21.668  31.767  1.00  0.00          CG
+HETATM     67 CG   RES A   1       9.916  19.853  30.088  1.00  0.00          CG
+HETATM     68 CG   RES A   1      10.147  22.417  32.723  1.00  0.00          CG
+HETATM     69 CG   RES A   1       9.891  20.364  30.758  1.00  0.00          CG
+HETATM     70 CG   RES A   1       9.799  18.430  29.061  1.00  0.00          CG
+HETATM     71 CG   RES A   1      10.174  20.408  30.848  1.00  0.00          CG
+HETATM     72 CG   RES A   1      10.187  18.667  29.262  1.00  0.00          CG
+HETATM     73 CG   RES A   1       9.936  17.389  28.072  1.00  0.00          CG
+HETATM     74 CG   RES A   1      10.059  19.927  30.178  1.00  0.00          CG
+HETATM     75 CG   RES A   1       9.862  17.039  27.468  1.00  0.00          CG
+HETATM     76 CG   RES A   1       9.932  16.601  27.082  1.00  0.00          CG
+HETATM     77 CG   RES A   1       9.654  14.506  25.396  1.00  0.00          CG
+HETATM     78 CG   RES A   1       9.686  17.284  27.293  1.00  0.00          CG
+HETATM     79 CG   RES A   1       9.757  18.735  28.722  1.00  0.00          CG
+HETATM     80 CG   RES A   1       9.650  15.545  25.456  1.00  0.00          CG
+HETATM     81 CG   RES A   1       9.411  12.693  23.074  1.00  0.00          CG
+HETATM     82 CG   RES A   1       9.806  14.650  25.120  1.00  0.00          CG
+HETATM     83 CG   RES A   1       9.245  11.588  22.467  1.00  0.00          CG
+HETATM     84 CG   RES A   1       9.400  11.940  22.677  1.00  0.00          CG
+HETATM     85 CG   RES A   1       9.183  11.960  22.931  1.00  0.00          CG
+HETATM     86 CG   RES A   1       9.545  14.919  25.690  1.00  0.00          CG
+HETATM     87 CG   RES A   1       9.378  13.431  24.011  1.00  0.00          CG
+HETATM     88 CG   RES A   1       9.035  10.332  21.150  1.00  0.00          CG
+HETATM     89 CG   RES A   1       9.006  11.416  22.241  1.00  0.00          CG
+HETATM     90 CG   RES A   1       8.798   8.854  20.035  1.00  0.00          CG
+HETATM     91 CG   RES A   1       9.211  14.034  24.789  1.00  0.00          CG
+HETATM     92 CG   RES A   1       9.356  14.842  25.212  1.00  0.00          CG
+HETATM     93 CG   RES A   1       9.645  17.841  27.877  1.00  0.00          CG
+HETATM     94 CG   RES A   1       9.175  12.036  22.405  1.00  0.00          CG
+HETATM     95 CG   RES A   1       9.533  16.398  26.480  1.00  0.00          CG
+HETATM     96 CG   RES A   1       9.404  14.573  24.579  1.00  0.00          CG
+HETATM     97 CG   RES A   1       9.441  12.506  22.605  1.00  0.00          CG
+HETATM     98 CG   RES A   1       9.536  14.509  23.810  1.00  0.00          CG
+HETATM     99 CG   RES A   1       9.683  16.959  26.188  1.00  0.00          CG
+HETATM    100 CG   RES A   1       9.395  14.500  23.482  1.00  0.00          CG
+HETATM    101 CG   RES A   1       9.939  21.039  30.172  1.00  0.00          CG
+HETATM    102 CG   RES A   1       9.878  18.800  28.332  1.00  0.00          CG
+HETATM    103 CG   RES A   1      10.231  22.436  32.002  1.00  0.00          CG
+HETATM    104 CG   RES A   1      10.604  25.526  34.955  1.00  0.00          CG
+HETATM    105 CG   RES A   1      10.556  24.407  34.184  1.00  0.00          CG
+HETATM    106 CG   RES A   1      10.811  26.293  36.146  1.00  0.00          CG
+HETATM    107 CG   RES A   1      10.714  27.836  37.830  1.00  0.00          CG
+HETATM    108 CG   RES A   1      10.912  26.887  36.895  1.00  0.00          CG
+HETATM    109 CG   RES A   1      10.700  27.079  37.359  1.00  0.00          CG
+HETATM    110 CG   RES A   1      10.609  26.439  36.511  1.00  0.00          CG
+HETATM    111 CG   RES A   1      10.897  27.685  38.330  1.00  0.00          CG
+HETATM    112 CG   RES A   1      10.829  29.845  39.959  1.00  0.00          CG
+HETATM    113 CG   RES A   1      11.003  28.940  39.322  1.00  0.00          CG
+HETATM    114 CG   RES A   1      10.556  26.262  36.577  1.00  0.00          CG
+HETATM    115 CG   RES A   1      10.449  25.726  36.239  1.00  0.00          CG
+HETATM    116 CG   RES A   1      10.429  26.124  36.760  1.00  0.00          CG
+HETATM    117 CG   RES A   1      10.347  26.100  36.755  1.00  0.00          CG
+HETATM    118 CG   RES A   1      10.156  23.645  34.445  1.00  0.00          CG
+HETATM    119 CG   RES A   1      10.193  24.806  35.519  1.00  0.00          CG
+HETATM    120 CG   RES A   1      10.105  23.225  33.830  1.00  0.00          CG
+HETATM    121 CG   RES A   1       9.919  20.461  31.436  1.00  0.00          CG
+HETATM    122 CG   RES A   1       9.882  19.339  30.383  1.00  0.00          CG
+HETATM    123 CG   RES A   1       9.644  22.175  32.610  1.00  0.00          CG
+HETATM    124 CG   RES A   1       9.743  19.433  30.071  1.00  0.00          CG
+HETATM    125 CG   RES A   1      10.093  22.847  33.257  1.00  0.00          CG
+HETATM    126 CG   RES A   1       9.234  15.222  25.908  1.00  0.00          CG
+HETATM    127 CG   RES A   1       8.904  17.195  28.403  1.00  0.00          CG
+HETATM    128 CG   RES A   1       9.485  14.644  25.701  1.00  0.00          CG
+HETATM    129 CG   RES A   1       8.961  10.930  21.959  1.00  0.00          CG
+HETATM    130 CG   RES A   1       8.806  11.698  22.458  1.00  0.00          CG
+HETATM    131 CG   RES A   1       8.878  10.099  21.487  1.00  0.00          CG
+HETATM    132 CG   RES A   1       8.740   7.730  19.240  1.00  0.00          CG
+HETATM    133 CG   RES A   1       8.561   7.341  18.558  1.00  0.00          CG
+HETATM    134 CG   RES A   1       8.677   8.614  19.663  1.00  0.00          CG
+HETATM    135 CG   RES A   1       8.274   3.964  15.266  1.00  0.00          CG
+HETATM    136 CG   RES A   1       8.495   6.320  17.567  1.00  0.00          CG
+HETATM    137 CG   RES A   1       8.853   9.906  20.638  1.00  0.00          CG
+HETATM    138 CG   RES A   1       8.369   7.589  18.370  1.00  0.00          CG
+HETATM    139 CG   RES A   1       8.934  11.401  22.146  1.00  0.00          CG
+HETATM    140 CG   RES A   1       9.024   7.789  18.236  1.00  0.00          CG
+HETATM    141 CG   RES A   1       9.141  12.669  23.163  1.00  0.00          CG
+HETATM    142 CG   RES A   1       9.380  16.416  26.425  1.00  0.00          CG
+HETATM    143 CG   RES A   1       9.068  13.732  24.174  1.00  0.00          CG
+HETATM    144 CG   RES A   1       8.604  10.516  21.380  1.00  0.00          CG
+HETATM    145 CG   RES A   1       9.290  16.565  27.072  1.00  0.00          CG
+HETATM    146 CG   RES A   1       8.728  11.888  22.731  1.00  0.00          CG
+HETATM    147 CG   RES A   1       8.887  14.301  25.140  1.00  0.00          CG
+HETATM    148 CG   RES A   1       8.602  11.495  22.421  1.00  0.00          CG
+HETATM    149 CG   RES A   1       8.585  11.577  22.631  1.00  0.00          CG
+HETATM    150 CG   RES A   1       8.498   8.259  19.425  1.00  0.00          CG
+HETATM    151 CG   RES A   1       8.394   6.658  18.288  1.00  0.00          CG
+HETATM    152 CG   RES A   1       8.051   3.318  15.243  1.00  0.00          CG
+HETATM    153 CG   RES A   1       8.304   5.466  17.032  1.00  0.00          CG
+HETATM    154 CG   RES A   1       7.944   1.887  13.916  1.00  0.00          CG
+HETATM    155 CG   RES A   1       7.831  -0.596  11.641  1.00  0.00          CG
+HETATM    156 CG   RES A   1       7.709   0.467  12.379  1.00  0.00          CG
+HETATM    157 CG   RES A   1       7.702   1.658  13.664  1.00  0.00          CG
+HETATM    158 CG   RES A   1       7.615  -1.470   9.913  1.00  0.00          CG
+HETATM    159 CG   RES A   1       8.009   4.056  16.016  1.00  0.00          CG
+HETATM    160 CG   RES A   1       7.673   3.800  15.731  1.00  0.00          CG
+HETATM    161 CG   RES A   1       8.016   5.821  17.623  1.00  0.00          CG
+HETATM    162 CG   RES A   1       7.925   6.046  17.595  1.00  0.00          CG
+HETATM    163 CG   RES A   1       8.132   3.351  15.421  1.00  0.00          CG
+HETATM    164 CG   RES A   1       8.049   2.288  14.448  1.00  0.00          CG
+HETATM    165 CG   RES A   1       8.042   1.329  13.363  1.00  0.00          CG
+HETATM    166 CG   RES A   1       8.453   8.034  19.636  1.00  0.00          CG
+HETATM    167 CG   RES A   1       8.188   5.414  17.278  1.00  0.00          CG
+HETATM    168 CG   RES A   1       8.456  10.120  21.482  1.00  0.00          CG
+HETATM    169 CG   RES A   1       8.722  10.542  21.666  1.00  0.00          CG
+HETATM    170 CG   RES A   1       8.913  13.400  24.358  1.00  0.00          CG
+HETATM    171 CG   RES A   1       9.140  13.642  24.743  1.00  0.00          CG
+HETATM    172 CG   RES A   1       9.370  16.618  27.819  1.00  0.00          CG
+HETATM    173 CG   RES A   1       9.533  17.753  28.855  1.00  0.00          CG
+HETATM    174 CG   RES A   1       9.579  17.990  28.841  1.00  0.00          CG
+HETATM    175 CG   RES A   1       9.861  20.381  31.369  1.00  0.00          CG
+HETATM    176 CG   RES A   1      10.285  23.518  34.226  1.00  0.00          CG
+HETATM    177 CG   RES A   1      10.118  21.735  32.325  1.00  0.00          CG
+HETATM    178 CG   RES A   1      10.059  21.297  32.390  1.00  0.00          CG
+HETATM    179 CG   RES A   1      10.554  26.954  37.313  1.00  0.00          CG
+HETATM    180 CG   RES A   1      10.656  24.968  35.646  1.00  0.00          CG
+HETATM    181 CG   RES A   1      10.536  22.380  33.230  1.00  0.00          CG
+HETATM    182 CG   RES A   1      10.675  22.614  33.366  1.00  0.00          CG
+HETATM    183 CG   RES A   1      10.870  24.071  34.359  1.00  0.00          CG
+HETATM    184 CG   RES A   1      10.384  21.148  31.794  1.00  0.00          CG
+HETATM    185 CG   RES A   1      10.330  21.668  32.367  1.00  0.00          CG
+HETATM    186 CG   RES A   1       9.848  17.781  28.816  1.00  0.00          CG
+HETATM    187 CG   RES A   1      10.785  24.822  35.200  1.00  0.00          CG
+HETATM    188 CG   RES A   1      10.439  23.792  34.224  1.00  0.00          CG
+HETATM    189 CG   RES A   1      10.380  23.904  34.029  1.00  0.00          CG
+HETATM    190 CG   RES A   1      10.586  24.022  34.280  1.00  0.00          CG
+HETATM    191 CG   RES A   1      10.715  26.500  36.600  1.00  0.00          CG
+HETATM    192 CG   RES A   1      10.266  22.517  32.484  1.00  0.00          CG
+HETATM    193 CG   RES A   1      10.351  23.991  33.756  1.00  0.00          CG
+HETATM    194 CG   RES A   1      10.096  21.782  31.428  1.00  0.00          CG
+HETATM    195 CG   RES A   1      10.430  24.410  33.713  1.00  0.00          CG
+HETATM    196 CG   RES A   1       9.998  21.480  30.918  1.00  0.00          CG
+HETATM    197 CG   RES A   1       9.995  21.620  30.975  1.00  0.00          CG
+HETATM    198 CG   RES A   1      10.249  23.930  32.805  1.00  0.00          CG
+HETATM    199 CG   RES A   1      10.357  21.435  31.426  1.00  0.00          CG
+HETATM    200 CG   RES A   1       9.786  19.925  29.164  1.00  0.00          CG
+HETATM    201 CG   RES A   1      10.696  31.105  39.804  1.00  0.00          CG
+HETATM    202 CG   RES A   1      10.549  30.405  39.538  1.00  0.00          CG
+HETATM    203 CG   RES A   1      10.677  30.570  40.077  1.00  0.00          CG
+HETATM    204 CG   RES A   1      10.759  29.459  38.623  1.00  0.00          CG
+HETATM    205 CG   RES A   1      10.599  29.980  39.507  1.00  0.00          CG
+HETATM    206 CG   RES A   1      10.413  27.788  37.473  1.00  0.00          CG
+HETATM    207 CG   RES A   1      10.606  28.430  37.839  1.00  0.00          CG
+HETATM    208 CG   RES A   1      10.694  31.061  40.570  1.00  0.00          CG
+HETATM    209 CG   RES A   1      10.654  29.402  39.117  1.00  0.00          CG
+HETATM    210 CG   RES A   1      10.672  29.193  39.229  1.00  0.00          CG
+HETATM    211 CG   RES A   1      10.142  26.534  36.683  1.00  0.00          CG
+HETATM    212 CG   RES A   1      10.291  25.215  35.039  1.00  0.00          CG
+HETATM    213 CG   RES A   1       9.919  22.214  32.352  1.00  0.00          CG
+HETATM    214 CG   RES A   1       9.577  19.195  29.664  1.00  0.00          CG
+HETATM    215 CG   RES A   1       9.483  17.652  28.092  1.00  0.00          CG
+HETATM    216 CG   RES A   1       9.329  16.961  27.573  1.00  0.00          CG
+HETATM    217 CG   RES A   1       9.136  15.644  26.539  1.00  0.00          CG
+HETATM    218 CG   RES A   1       9.601  19.385  29.537  1.00  0.00          CG
+HETATM    219 CG   RES A   1       9.525  17.394  27.627  1.00  0.00          CG
+HETATM    220 CG   RES A   1       9.730  22.236  31.946  1.00  0.00          CG
+HETATM    221 CG   RES A   1       9.194  21.247  31.657  1.00  0.00          CG
+HETATM    222 CG   RES A   1       9.580  19.159  29.020  1.00  0.00          CG
+HETATM    223 CG   RES A   1      10.049  25.720  35.180  1.00  0.00          CG
+HETATM    224 CG   RES A   1       9.973  23.498  33.197  1.00  0.00          CG
+HETATM    225 CG   RES A   1      10.213  26.202  35.424  1.00  0.00          CG
+HETATM    226 CG   RES A   1      10.131  26.102  35.187  1.00  0.00          CG
+HETATM    227 CG   RES A   1      10.263  28.605  36.844  1.00  0.00          CG
+HETATM    228 CG   RES A   1      10.826  31.362  39.985  1.00  0.00          CG
+HETATM    229 CG   RES A   1      10.884  31.525  40.126  1.00  0.00          CG
+HETATM    230 CG   RES A   1      11.059  33.511  41.624  1.00  0.00          CG
+HETATM    231 CG   RES A   1      11.036  31.407  40.236  1.00  0.00          CG
+HETATM    232 CG   RES A   1      10.552  29.020  37.618  1.00  0.00          CG
+HETATM    233 CG   RES A   1      11.289  33.633  42.262  1.00  0.00          CG
+HETATM    234 CG   RES A   1      11.110  33.106  41.962  1.00  0.00          CG
+HETATM    235 CG   RES A   1      11.268  31.581  40.443  1.00  0.00          CG
+HETATM    236 CG   RES A   1      11.219  29.605  38.415  1.00  0.00          CG
+HETATM    237 CG   RES A   1      11.080  29.812  38.728  1.00  0.00          CG
+HETATM    238 CG   RES A   1      11.615  34.236  42.387  1.00  0.00          CG
+HETATM    239 CG   RES A   1      11.493  32.321  41.443  1.00  0.00          CG
+HETATM    240 CG   RES A   1      11.716  31.808  41.057  1.00  0.00          CG
+HETATM    241 CG   RES A   1      11.230  30.525  40.014  1.00  0.00          CG
+HETATM    242 CG   RES A   1      10.819  31.419  41.135  1.00  0.00          CG
+HETATM    243 CG   RES A   1      10.905  26.416  36.173  1.00  0.00          CG
+HETATM    244 CG   RES A   1      11.108  28.804  38.360  1.00  0.00          CG
+HETATM    245 CG   RES A   1      10.605  23.748  33.264  1.00  0.00          CG
+HETATM    246 CG   RES A   1      10.777  24.518  33.927  1.00  0.00          CG
+HETATM    247 CG   RES A   1      10.892  27.483  36.542  1.00  0.00          CG
+HETATM    248 CG   RES A   1      10.429  22.566  31.851  1.00  0.00          CG
+HETATM    249 CG   RES A   1      10.595  21.728  31.446  1.00  0.00          CG
+HETATM    250 CG   RES A   1      10.360  23.510  33.015  1.00  0.00          CG
+HETATM    251 CG   RES A   1      10.467  20.728  30.166  1.00  0.00          CG
+HETATM    252 CG   RES A   1      10.325  19.255  29.073  1.00  0.00          CG
+HETATM    253 CG   RES A   1      10.439  23.589  32.484  1.00  0.00          CG
+HETATM    254 CG   RES A   1      10.780  25.695  34.934  1.00  0.00          CG
+HETATM    255 CG   RES A   1      10.855  28.125  36.871  1.00  0.00          CG
+HETATM    256 CG   RES A   1      11.147  30.443  39.280  1.00  0.00          CG
+HETATM    257 CG   RES A   1      10.751  30.012  38.369  1.00  0.00          CG
+HETATM    258 CG   RES A   1      10.838  27.419  36.490  1.00  0.00          CG
+HETATM    259 CG   RES A   1      10.570  32.982  40.897  1.00  0.00          CG
+HETATM    260 CG   RES A   1      10.510  29.289  37.467  1.00  0.00          CG
+HETATM    261 CG   RES A   1      10.096  24.226  33.355  1.00  0.00          CG
+HETATM    262 CG   RES A   1      10.002  23.034  32.620  1.00  0.00          CG
+HETATM    263 CG   RES A   1       9.687  20.898  30.193  1.00  0.00          CG
+HETATM    264 CG   RES A   1       9.904  20.760  30.654  1.00  0.00          CG
+HETATM    265 CG   RES A   1       9.944  22.912  32.696  1.00  0.00          CG
+HETATM    266 CG   RES A   1       9.927  21.638  31.721  1.00  0.00          CG
+HETATM    267 CG   RES A   1       9.916  19.853  30.088  1.00  0.00          CG
+HETATM    268 CG   RES A   1      10.147  22.417  32.723  1.00  0.00          CG
+HETATM    269 CG   RES A   1       9.891  20.364  30.758  1.00  0.00          CG
+HETATM    270 CG   RES A   1      10.112  20.290  30.744  1.00  0.00          CG
+HETATM    271 CG   RES A   1       9.751  17.807  28.493  1.00  0.00          CG
+HETATM    272 CG   RES A   1      10.144  18.395  29.008  1.00  0.00          CG
+HETATM    273 CG   RES A   1       9.916  17.335  28.023  1.00  0.00          CG
+HETATM    274 CG   RES A   1      10.059  19.927  30.178  1.00  0.00          CG
+HETATM    275 CG   RES A   1       9.862  17.039  27.468  1.00  0.00          CG
+HETATM    276 CG   RES A   1       9.932  16.601  27.082  1.00  0.00          CG
+HETATM    277 CG   RES A   1       9.654  14.506  25.396  1.00  0.00          CG
+HETATM    278 CG   RES A   1       9.734  18.376  28.403  1.00  0.00          CG
+HETATM    279 CG   RES A   1       9.685  17.166  27.148  1.00  0.00          CG
+HETATM    280 CG   RES A   1       9.650  15.545  25.456  1.00  0.00          CG
+HETATM    281 CG   RES A   1       9.411  12.693  23.074  1.00  0.00          CG
+HETATM    282 CG   RES A   1       9.806  14.650  25.120  1.00  0.00          CG
+HETATM    283 CG   RES A   1       9.389  11.976  22.704  1.00  0.00          CG
+HETATM    284 CG   RES A   1       9.205  11.448  22.379  1.00  0.00          CG
+HETATM    285 CG   RES A   1       9.183  11.960  22.931  1.00  0.00          CG
+HETATM    286 CG   RES A   1       9.545  14.919  25.690  1.00  0.00          CG
+HETATM    287 CG   RES A   1       9.378  13.431  24.011  1.00  0.00          CG
+HETATM    288 CG   RES A   1       9.035  10.332  21.150  1.00  0.00          CG
+HETATM    289 CG   RES A   1       9.006  11.416  22.241  1.00  0.00          CG
+HETATM    290 CG   RES A   1       8.798   8.854  20.035  1.00  0.00          CG
+HETATM    291 CG   RES A   1       9.211  14.034  24.789  1.00  0.00          CG
+HETATM    292 CG   RES A   1       9.356  14.842  25.212  1.00  0.00          CG
+HETATM    293 CG   RES A   1       9.645  17.841  27.877  1.00  0.00          CG
+HETATM    294 CG   RES A   1       9.175  12.036  22.405  1.00  0.00          CG
+HETATM    295 CG   RES A   1       9.533  16.398  26.480  1.00  0.00          CG
+HETATM    296 CG   RES A   1       9.404  14.573  24.579  1.00  0.00          CG
+HETATM    297 CG   RES A   1       9.441  12.506  22.605  1.00  0.00          CG
+HETATM    298 CG   RES A   1       9.536  14.509  23.810  1.00  0.00          CG
+HETATM    299 CG   RES A   1       9.665  16.745  25.963  1.00  0.00          CG
+HETATM    300 CG   RES A   1       9.395  14.500  23.482  1.00  0.00          CG
+HETATM    301 CG   RES A   1       9.874  18.814  28.314  1.00  0.00          CG
+HETATM    302 CG   RES A   1       9.939  21.039  30.172  1.00  0.00          CG
+HETATM    303 CG   RES A   1      10.231  22.436  32.002  1.00  0.00          CG
+HETATM    304 CG   RES A   1      10.604  25.526  34.955  1.00  0.00          CG
+HETATM    305 CG   RES A   1      10.556  24.407  34.184  1.00  0.00          CG
+HETATM    306 CG   RES A   1      10.811  26.293  36.146  1.00  0.00          CG
+HETATM    307 CG   RES A   1      10.714  27.836  37.830  1.00  0.00          CG
+HETATM    308 CG   RES A   1      10.912  26.887  36.895  1.00  0.00          CG
+HETATM    309 CG   RES A   1      10.700  27.079  37.359  1.00  0.00          CG
+HETATM    310 CG   RES A   1      10.609  26.439  36.511  1.00  0.00          CG
+HETATM    311 CG   RES A   1      10.897  27.685  38.330  1.00  0.00          CG
+HETATM    312 CG   RES A   1      10.829  29.845  39.959  1.00  0.00          CG
+HETATM    313 CG   RES A   1      11.003  28.940  39.322  1.00  0.00          CG
+HETATM    314 CG   RES A   1      10.556  26.262  36.577  1.00  0.00          CG
+HETATM    315 CG   RES A   1      10.449  25.726  36.239  1.00  0.00          CG
+HETATM    316 CG   RES A   1      10.429  26.124  36.760  1.00  0.00          CG
+HETATM    317 CG   RES A   1      10.338  26.024  36.670  1.00  0.00          CG
+HETATM    318 CG   RES A   1      10.195  24.772  35.482  1.00  0.00          CG
+HETATM    319 CG   RES A   1      10.131  23.193  34.046  1.00  0.00          CG
+HETATM    320 CG   RES A   1      10.105  23.225  33.830  1.00  0.00          CG
+HETATM    321 CG   RES A   1       9.919  20.461  31.436  1.00  0.00          CG
+HETATM    322 CG   RES A   1       9.882  19.339  30.383  1.00  0.00          CG
+HETATM    323 CG   RES A   1       9.644  22.175  32.610  1.00  0.00          CG
+HETATM    324 CG   RES A   1       9.743  19.433  30.071  1.00  0.00          CG
+HETATM    325 CG   RES A   1      10.093  22.847  33.257  1.00  0.00          CG
+HETATM    326 CG   RES A   1       9.234  15.222  25.908  1.00  0.00          CG
+HETATM    327 CG   RES A   1       8.904  17.195  28.403  1.00  0.00          CG
+HETATM    328 CG   RES A   1       9.485  14.644  25.701  1.00  0.00          CG
+HETATM    329 CG   RES A   1       8.961  10.930  21.959  1.00  0.00          CG
+HETATM    330 CG   RES A   1       8.806  11.698  22.458  1.00  0.00          CG
+HETATM    331 CG   RES A   1       8.878  10.099  21.487  1.00  0.00          CG
+HETATM    332 CG   RES A   1       8.740   7.730  19.240  1.00  0.00          CG
+HETATM    333 CG   RES A   1       8.566   7.455  18.650  1.00  0.00          CG
+HETATM    334 CG   RES A   1       8.688   8.651  19.705  1.00  0.00          CG
+HETATM    335 CG   RES A   1       8.274   3.964  15.266  1.00  0.00          CG
+HETATM    336 CG   RES A   1       8.495   6.320  17.567  1.00  0.00          CG
+HETATM    337 CG   RES A   1       8.853   9.906  20.638  1.00  0.00          CG
+HETATM    338 CG   RES A   1       8.369   7.589  18.370  1.00  0.00          CG
+HETATM    339 CG   RES A   1       8.934  11.401  22.146  1.00  0.00          CG
+HETATM    340 CG   RES A   1       9.024   7.789  18.236  1.00  0.00          CG
+HETATM    341 CG   RES A   1       9.141  12.669  23.163  1.00  0.00          CG
+HETATM    342 CG   RES A   1       9.380  16.416  26.425  1.00  0.00          CG
+HETATM    343 CG   RES A   1       9.068  13.732  24.174  1.00  0.00          CG
+HETATM    344 CG   RES A   1       8.604  10.516  21.380  1.00  0.00          CG
+HETATM    345 CG   RES A   1       9.290  16.565  27.072  1.00  0.00          CG
+HETATM    346 CG   RES A   1       8.728  11.888  22.731  1.00  0.00          CG
+HETATM    347 CG   RES A   1       8.887  14.301  25.140  1.00  0.00          CG
+HETATM    348 CG   RES A   1       8.602  11.495  22.421  1.00  0.00          CG
+HETATM    349 CG   RES A   1       8.585  11.577  22.631  1.00  0.00          CG
+HETATM    350 CG   RES A   1       8.444   8.366  19.490  1.00  0.00          CG
+HETATM    351 CG   RES A   1       8.461   7.040  18.589  1.00  0.00          CG
+HETATM    352 CG   RES A   1       8.289   5.488  17.064  1.00  0.00          CG
+HETATM    353 CG   RES A   1       8.041   3.087  15.047  1.00  0.00          CG
+HETATM    354 CG   RES A   1       7.920   1.575  13.595  1.00  0.00          CG
+HETATM    355 CG   RES A   1       7.817  -0.845  11.434  1.00  0.00          CG
+HETATM    356 CG   RES A   1       7.709   0.467  12.379  1.00  0.00          CG
+HETATM    357 CG   RES A   1       7.702   1.658  13.664  1.00  0.00          CG
+HETATM    358 CG   RES A   1       7.615  -1.470   9.913  1.00  0.00          CG
+HETATM    359 CG   RES A   1       8.009   4.056  16.016  1.00  0.00          CG
+HETATM    360 CG   RES A   1       7.673   3.800  15.731  1.00  0.00          CG
+HETATM    361 CG   RES A   1       8.016   5.821  17.623  1.00  0.00          CG
+HETATM    362 CG   RES A   1       7.925   6.046  17.595  1.00  0.00          CG
+HETATM    363 CG   RES A   1       8.132   3.351  15.421  1.00  0.00          CG
+HETATM    364 CG   RES A   1       8.049   2.288  14.448  1.00  0.00          CG
+HETATM    365 CG   RES A   1       8.042   1.329  13.363  1.00  0.00          CG
+HETATM    366 CG   RES A   1       8.453   8.034  19.636  1.00  0.00          CG
+HETATM    367 CG   RES A   1       8.188   5.414  17.278  1.00  0.00          CG
+HETATM    368 CG   RES A   1       8.456  10.120  21.482  1.00  0.00          CG
+HETATM    369 CG   RES A   1       8.722  10.542  21.666  1.00  0.00          CG
+HETATM    370 CG   RES A   1       8.913  13.400  24.358  1.00  0.00          CG
+HETATM    371 CG   RES A   1       9.140  13.642  24.743  1.00  0.00          CG
+HETATM    372 CG   RES A   1       9.370  16.618  27.819  1.00  0.00          CG
+HETATM    373 CG   RES A   1       9.533  17.753  28.855  1.00  0.00          CG
+HETATM    374 CG   RES A   1       9.579  17.990  28.841  1.00  0.00          CG
+HETATM    375 CG   RES A   1       9.861  20.381  31.369  1.00  0.00          CG
+HETATM    376 CG   RES A   1      10.285  23.518  34.226  1.00  0.00          CG
+HETATM    377 CG   RES A   1      10.118  21.735  32.325  1.00  0.00          CG
+HETATM    378 CG   RES A   1      10.059  21.297  32.390  1.00  0.00          CG
+HETATM    379 CG   RES A   1      10.554  26.954  37.313  1.00  0.00          CG
+HETATM    380 CG   RES A   1      10.656  24.968  35.646  1.00  0.00          CG
+HETATM    381 CG   RES A   1      10.536  22.380  33.230  1.00  0.00          CG
+HETATM    382 CG   RES A   1      10.675  22.614  33.366  1.00  0.00          CG
+HETATM    383 CG   RES A   1      10.870  24.071  34.359  1.00  0.00          CG
+HETATM    384 CG   RES A   1      10.384  21.148  31.794  1.00  0.00          CG
+HETATM    385 CG   RES A   1      10.330  21.668  32.367  1.00  0.00          CG
+HETATM    386 CG   RES A   1       9.848  17.781  28.816  1.00  0.00          CG
+HETATM    387 CG   RES A   1      10.785  24.822  35.200  1.00  0.00          CG
+HETATM    388 CG   RES A   1      10.439  23.792  34.224  1.00  0.00          CG
+HETATM    389 CG   RES A   1      10.380  23.904  34.029  1.00  0.00          CG
+HETATM    390 CG   RES A   1      10.586  24.022  34.280  1.00  0.00          CG
+HETATM    391 CG   RES A   1      10.715  26.500  36.600  1.00  0.00          CG
+HETATM    392 CG   RES A   1      10.266  22.517  32.484  1.00  0.00          CG
+HETATM    393 CG   RES A   1      10.351  23.991  33.756  1.00  0.00          CG
+HETATM    394 CG   RES A   1      10.096  21.782  31.428  1.00  0.00          CG
+HETATM    395 CG   RES A   1      10.430  24.410  33.713  1.00  0.00          CG
+HETATM    396 CG   RES A   1       9.998  21.480  30.918  1.00  0.00          CG
+HETATM    397 CG   RES A   1       9.995  21.620  30.975  1.00  0.00          CG
+HETATM    398 CG   RES A   1      10.249  23.930  32.805  1.00  0.00          CG
+HETATM    399 CG   RES A   1      10.357  21.435  31.426  1.00  0.00          CG
+HETATM    400 CG   RES A   1       9.786  19.925  29.164  1.00  0.00          CG
+CONECT    2   27   28
+CONECT    1    3
+CONECT    2    4    5
+CONECT    3
+CONECT    3    6
+CONECT    5    7
+CONECT    6    8
+CONECT    7    9
+CONECT    8   10
+CONECT    9   11
+CONECT   10   12
+CONECT   11   13
+CONECT   12   14
+CONECT   13   15
+CONECT   14   16
+CONECT   15   17   18
+CONECT   16
+CONECT   16   19   20   21
+CONECT   18
+CONECT   18   22   23   24
+CONECT   18
+CONECT   20
+CONECT   20
+CONECT   20   25
+CONECT   24   26
+CONECT   25   27
+CONECT    1   26
+CONECT    1   29
+CONECT   28   30
+CONECT   29   31
+CONECT   30   32   33
+CONECT   31
+CONECT   31   34
+CONECT   33   35
+CONECT   34   36   37   38
+CONECT   35
+CONECT   35
+CONECT   35   39
+CONECT   38   40
+CONECT   39   41
+CONECT   40   42   43   44
+CONECT   41
+CONECT   41
+CONECT   41   45
+CONECT   44   46
+CONECT   45   47   48   49
+CONECT   46
+CONECT   46
+CONECT   46   50   51   52
+CONECT   49  101  103
+CONECT   49   53
+CONECT   49
+CONECT   51   54
+CONECT   53   55
+CONECT   54   56
+CONECT   55   57
+CONECT   56   58   59
+CONECT   57
+CONECT   57   60
+CONECT   59
+CONECT   62
+CONECT   61   63   64
+CONECT   62
+CONECT   62   65
+CONECT   64   66
+CONECT   65   67   68
+CONECT   66
+CONECT   66   69
+CONECT   68   70
+CONECT   69   71
+CONECT   70   72
+CONECT   71   73
+CONECT   72   74
+CONECT   73   75
+CONECT   74   76   77   78
+CONECT   75
+CONECT   75
+CONECT   75   79   80
+CONECT   78
+CONECT   78   81
+CONECT   80   82   83
+CONECT   81
+CONECT   81   84   85
+CONECT   83
+CONECT   83   86
+CONECT   85   87
+CONECT   86   88
+CONECT   87   89
+CONECT   88   90   91
+CONECT   89
+CONECT   89   92
+CONECT   91   93   94   95
+CONECT   92
+CONECT   92
+CONECT   92   96
+CONECT   95   97
+CONECT   96   98
+CONECT   97   99
+CONECT   98  100  101  102
+CONECT   99
+CONECT   50   99
+CONECT   99
+CONECT   50  104
+CONECT  103  105
+CONECT  104  106
+CONECT  105  107  108
+CONECT  106
+CONECT  106  109
+CONECT  108  110  111  112
+CONECT  109
+CONECT  109
+CONECT  109  113
+CONECT  112  114
+CONECT  113  115
+CONECT  114  116
+CONECT  115  117
+CONECT  116  118
+CONECT  117  119  120
+CONECT  118
+CONECT  118  121
+CONECT  120  122  123
+CONECT  121
+CONECT  121  124
+CONECT  123  125  126  127
+CONECT  124
+CONECT  124  128  129  130
+CONECT  124
+CONECT  126
+CONECT  126  131  132
+CONECT  126
+CONECT  129
+CONECT  129  133
+CONECT  132  134  135
+CONECT  133
+CONECT  133  136
+CONECT  135  137  138
+CONECT  136  139  140  141
+CONECT  136
+CONECT  137
+CONECT  137
+CONECT  137  142
+CONECT  141  143
+CONECT  142  144  145  146
+CONECT  143
+CONECT  143
+CONECT  143  147
+CONECT  146  148
+CONECT  147  149
+CONECT  148  150
+CONECT  149  151
+CONECT  150  152  153
+CONECT  151  154
+CONECT  151
+CONECT  152  155
+CONECT  154  156
+CONECT  155  157  158
+CONECT  156  159
+CONECT  156
+CONECT  157  160  164  166
+CONECT  159  161
+CONECT  160  162
+CONECT  161  163
+CONECT  162  164  165
+CONECT  159  163
+CONECT  163
+CONECT  159  167  168  169
+CONECT  166
+CONECT  166
+CONECT  166  170
+CONECT  169  171
+CONECT  170  172
+CONECT  171  173
+CONECT  172  174  175
+CONECT  173
+CONECT  173  176  177
+CONECT  175  178  179
+CONECT  175
+CONECT  176
+CONECT  176  180
+CONECT  179  181
+CONECT  180  182
+CONECT  181  183
+CONECT  182  184
+CONECT  183  185
+CONECT  184  186  187  188
+CONECT  185
+CONECT  185
+CONECT  185  189
+CONECT  188  190  191  192
+CONECT  189
+CONECT  189
+CONECT  189  193
+CONECT  192  194
+CONECT  193  195
+CONECT  194  196
+CONECT  195  197
+CONECT  196  198  199
+CONECT  197
+CONECT  197  200
+CONECT  199
+CONECT  202  227  228
+CONECT  201  203
+CONECT  202  204  205
+CONECT  203
+CONECT  203  206
+CONECT  205  207
+CONECT  206  208
+CONECT  207  209
+CONECT  208  210
+CONECT  209  211
+CONECT  210  212
+CONECT  211  213
+CONECT  212  214
+CONECT  213  215
+CONECT  214  216
+CONECT  215  217  218
+CONECT  216
+CONECT  216  219  220  221
+CONECT  218
+CONECT  218  222  223  224
+CONECT  218
+CONECT  220
+CONECT  220
+CONECT  220  225
+CONECT  224  226
+CONECT  225  227
+CONECT  201  226
+CONECT  201  229
+CONECT  228  230
+CONECT  229  231
+CONECT  230  232  233
+CONECT  231
+CONECT  231  234
+CONECT  233  235
+CONECT  234  236  237  238
+CONECT  235
+CONECT  235
+CONECT  235  239
+CONECT  238  240
+CONECT  239  241
+CONECT  240  242  243  244
+CONECT  241
+CONECT  241  245
+CONECT  241
+CONECT  243  246
+CONECT  245  247  248  249
+CONECT  246
+CONECT  246
+CONECT  246  250  251  252
+CONECT  249  302  303
+CONECT  249  253
+CONECT  249
+CONECT  251  254
+CONECT  253  255
+CONECT  254  256
+CONECT  255  257
+CONECT  256  258  259
+CONECT  257
+CONECT  257  260
+CONECT  259
+CONECT  262
+CONECT  261  263  264
+CONECT  262
+CONECT  262  265
+CONECT  264  266
+CONECT  265  267  268
+CONECT  266
+CONECT  266  269
+CONECT  268  270
+CONECT  269  271  272
+CONECT  270
+CONECT  270  273
+CONECT  272  274
+CONECT  273  275
+CONECT  274  276  277  278
+CONECT  275
+CONECT  275
+CONECT  275  279
+CONECT  278  280
+CONECT  279  281
+CONECT  280  282  283
+CONECT  281
+CONECT  281  284
+CONECT  283  285
+CONECT  284  286
+CONECT  285  287
+CONECT  286  288
+CONECT  287  289
+CONECT  288  290  291
+CONECT  289
+CONECT  289  292
+CONECT  291  293  294  295
+CONECT  292
+CONECT  292
+CONECT  292  296
+CONECT  295  297
+CONECT  296  298
+CONECT  297  299
+CONECT  298  300  301
+CONECT  299
+CONECT  299  302
+CONECT  250  301
+CONECT  250  304
+CONECT  303  305
+CONECT  304  306
+CONECT  305  307  308
+CONECT  306
+CONECT  306  309
+CONECT  308  310  311  312
+CONECT  309
+CONECT  309
+CONECT  309  313
+CONECT  312  314
+CONECT  313  315
+CONECT  314  316
+CONECT  315  317
+CONECT  316  318
+CONECT  317  319
+CONECT  318  320
+CONECT  319  321
+CONECT  320  322  323
+CONECT  321
+CONECT  321  324
+CONECT  323  325  326  327
+CONECT  324
+CONECT  324  328  329  330
+CONECT  324
+CONECT  326
+CONECT  326  331  332
+CONECT  326
+CONECT  329
+CONECT  329  333
+CONECT  332  334  335
+CONECT  333
+CONECT  333  336
+CONECT  335  337  338
+CONECT  336  339  340  341
+CONECT  336
+CONECT  337
+CONECT  337
+CONECT  337  342
+CONECT  341  343
+CONECT  342  344  345  346
+CONECT  343
+CONECT  343
+CONECT  343  347
+CONECT  346  348
+CONECT  347  349
+CONECT  348  350
+CONECT  349  351
+CONECT  350  352
+CONECT  351  353
+CONECT  352  354
+CONECT  353  355
+CONECT  354  356
+CONECT  355  357  358
+CONECT  356  359
+CONECT  356
+CONECT  357  360  364  366
+CONECT  359  361
+CONECT  360  362
+CONECT  361  363
+CONECT  362  364  365
+CONECT  359  363
+CONECT  363
+CONECT  359  367  368  369
+CONECT  366
+CONECT  366
+CONECT  366  370
+CONECT  369  371
+CONECT  370  372
+CONECT  371  373
+CONECT  372  374  375
+CONECT  373
+CONECT  373  376  377
+CONECT  375  378  379
+CONECT  375
+CONECT  376
+CONECT  376  380
+CONECT  379  381
+CONECT  380  382
+CONECT  381  383
+CONECT  382  384
+CONECT  383  385
+CONECT  384  386  387  388
+CONECT  385
+CONECT  385
+CONECT  385  389
+CONECT  388  390  391  392
+CONECT  389
+CONECT  389
+CONECT  389  393
+CONECT  392  394
+CONECT  393  395
+CONECT  394  396
+CONECT  395  397
+CONECT  396  398  399
+CONECT  397
+CONECT  397  400
+CONECT  399
+END

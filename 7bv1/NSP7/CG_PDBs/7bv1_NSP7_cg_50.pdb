@@ -1,0 +1,103 @@
+COMPND    7bv1_NSP7
+TITLE     COARSE-GRAINED MAPPINGS BY DSGPM MODEL
+HETATM      1 CG   RES A   1     101.197  65.673 128.031  1.00  0.00          CG
+HETATM      2 CG   RES A   1     100.744  69.836 123.447  1.00  0.00          CG
+HETATM      3 CG   RES A   1      98.318  70.787 128.140  1.00  0.00          CG
+HETATM      4 CG   RES A   1     101.568  73.116 127.926  1.00  0.00          CG
+HETATM      5 CG   RES A   1     100.455  75.089 123.873  1.00  0.00          CG
+HETATM      6 CG   RES A   1      97.326  75.968 129.559  1.00  0.00          CG
+HETATM      7 CG   RES A   1      98.838  80.386 128.681  1.00  0.00          CG
+HETATM      8 CG   RES A   1      96.506  81.060 132.711  1.00  0.00          CG
+HETATM      9 CG   RES A   1     101.187  81.053 133.531  1.00  0.00          CG
+HETATM     10 CG   RES A   1     100.536  85.202 130.900  1.00  0.00          CG
+HETATM     11 CG   RES A   1      97.322  86.012 134.360  1.00  0.00          CG
+HETATM     12 CG   RES A   1     102.347  86.718 134.806  1.00  0.00          CG
+HETATM     13 CG   RES A   1      98.358  90.765 133.171  1.00  0.00          CG
+HETATM     14 CG   RES A   1      94.947  90.645 136.054  1.00  0.00          CG
+HETATM     15 CG   RES A   1      99.640  90.715 138.787  1.00  0.00          CG
+HETATM     16 CG   RES A   1      98.434  96.467 138.794  1.00  0.00          CG
+HETATM     17 CG   RES A   1     103.749  92.992 135.127  1.00  0.00          CG
+HETATM     18 CG   RES A   1     101.340  95.524 131.086  1.00  0.00          CG
+HETATM     19 CG   RES A   1     106.455  97.353 132.682  1.00  0.00          CG
+HETATM     20 CG   RES A   1     112.877  94.876 130.211  1.00  0.00          CG
+HETATM     21 CG   RES A   1     109.567  91.803 132.177  1.00  0.00          CG
+HETATM     22 CG   RES A   1     103.302  91.872 129.109  1.00  0.00          CG
+HETATM     23 CG   RES A   1     109.918  89.793 128.275  1.00  0.00          CG
+HETATM     24 CG   RES A   1     106.232  87.817 128.235  1.00  0.00          CG
+HETATM     25 CG   RES A   1     108.953  86.169 123.337  1.00  0.00          CG
+HETATM     26 CG   RES A   1     108.373  82.862 126.678  1.00  0.00          CG
+HETATM     27 CG   RES A   1     102.723  83.338 125.683  1.00  0.00          CG
+HETATM     28 CG   RES A   1     103.916  84.013 122.332  1.00  0.00          CG
+HETATM     29 CG   RES A   1     108.043  80.803 121.361  1.00  0.00          CG
+HETATM     30 CG   RES A   1     105.883  78.370 124.608  1.00  0.00          CG
+HETATM     31 CG   RES A   1     102.506  78.767 121.635  1.00  0.00          CG
+HETATM     32 CG   RES A   1     105.445  77.468 118.354  1.00  0.00          CG
+HETATM     33 CG   RES A   1     105.969  72.595 116.762  1.00  0.00          CG
+HETATM     34 CG   RES A   1     109.193  69.565 120.760  1.00  0.00          CG
+HETATM     35 CG   RES A   1     106.964  68.873 124.572  1.00  0.00          CG
+HETATM     36 CG   RES A   1     111.169  69.464 125.565  1.00  0.00          CG
+HETATM     37 CG   RES A   1     112.087  72.948 123.953  1.00  0.00          CG
+HETATM     38 CG   RES A   1     109.433  74.003 128.350  1.00  0.00          CG
+HETATM     39 CG   RES A   1     106.379  69.853 129.931  1.00  0.00          CG
+HETATM     40 CG   RES A   1     111.088  78.105 126.329  1.00  0.00          CG
+HETATM     41 CG   RES A   1     106.529  77.063 131.537  1.00  0.00          CG
+HETATM     42 CG   RES A   1     110.770  77.946 133.243  1.00  0.00          CG
+HETATM     43 CG   RES A   1     107.264  81.904 132.346  1.00  0.00          CG
+HETATM     44 CG   RES A   1     106.369  79.806 136.522  1.00  0.00          CG
+HETATM     45 CG   RES A   1     109.124  83.651 136.948  1.00  0.00          CG
+HETATM     46 CG   RES A   1     104.470  83.859 138.906  1.00  0.00          CG
+HETATM     47 CG   RES A   1     108.409  83.337 141.651  1.00  0.00          CG
+HETATM     48 CG   RES A   1     107.005  88.080 141.880  1.00  0.00          CG
+HETATM     49 CG   RES A   1     107.786  88.119 146.519  1.00  0.00          CG
+HETATM     50 CG   RES A   1     102.833  88.200 145.805  1.00  0.00          CG
+CONECT    2
+CONECT    1    3
+CONECT    2    4
+CONECT    3    5
+CONECT    4    6
+CONECT    5    7
+CONECT    6    8
+CONECT    7    9
+CONECT    8   10
+CONECT    9   11
+CONECT   10   12
+CONECT   11   13
+CONECT   12   14
+CONECT   13   15
+CONECT   14   16
+CONECT   15   17
+CONECT   16   18
+CONECT   17   19
+CONECT   18   20
+CONECT   19   21
+CONECT   20   22
+CONECT   21   23
+CONECT   22   24
+CONECT   23   25
+CONECT   24   26
+CONECT   25   27
+CONECT   26   28
+CONECT   27   29
+CONECT   28   30
+CONECT   29   31
+CONECT   30   32
+CONECT   31   33
+CONECT   32   34
+CONECT   33   35
+CONECT   34   36
+CONECT   35   37
+CONECT   36   38
+CONECT   37   39   40
+CONECT   38
+CONECT   38   41
+CONECT   40   42
+CONECT   41   43
+CONECT   42   44
+CONECT   43   45
+CONECT   44   46
+CONECT   45   47
+CONECT   46   48
+CONECT   47   49
+CONECT   48   50
+CONECT   49
+END
