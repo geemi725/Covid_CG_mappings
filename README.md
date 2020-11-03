@@ -1,5 +1,5 @@
 # Coarse-grained (CG) structures of SARS-CoV-2 related proteins 
-
+![abs_graphic](img/CG_mapping_covid_git2.png)
 This is a data repository of  Coarse-grained structures of SARS-CoV-2/COVID-19 related biomolecules.
 These CG structutres are generated from [DSGPM](https://github.com/rochesterxugroup/DSGPM) neural network model. 
 
