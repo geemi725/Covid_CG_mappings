@@ -41,9 +41,9 @@ Please note that non-bonded protein chains/segments are coarse-grained separatel
 These structures are generated as a milestone of the research project proposed for the [MOLSSI Seed-Fellowship](https://molssi.org/2020b-seed-software-fellows/) (Fellowship agreement No.480388) supported by the National Science Foundation.
 
 
-## For Citation 
+## For Citations 
 
-If you use these models or our model to generate CG mappings, please cite our paper [https://doi.org/10.1039/D0SC02458A]
+If you use these models or our model to generate CG mappings, please cite our [paper](https://doi.org/10.1039/D0SC02458A)
 
 
 ```
