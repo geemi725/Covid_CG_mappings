@@ -3,7 +3,7 @@
 This is a data repository of  Coarse-grained structures of SARS-CoV-2/COVID-19 related biomolecules.
 These CG structutres are generated from [DSGPM](https://github.com/rochesterxugroup/DSGPM) neural network model. 
 
-Please note that non-bonded protein chains/segments are coarse-grained separately. Furthermore HETAM entries of the original PDB files are removed.
+Please note that non-bonded protein chains/segments are coarse-grained separately. Each structure contain multiple mappings with different resolutions. Furthermore, HETAM entries of the original PDB files are removed.
 ## Funding 
 These structures are generated as a milestone of the research project proposed for the MOLSSI Seed-Fellowship.
 
