@@ -5,7 +5,7 @@ These CG structutres are generated from [DSGPM](https://github.com/rochesterxugr
 
 Please note that non-bonded protein chains/segments are coarse-grained separately. Each structure contain multiple mappings with different resolutions. Furthermore, HETAM entries of the original PDB files are removed.
 ## Funding 
-These structures are generated as a milestone of the research project proposed for the MOLSSI Seed-Fellowship.
+These structures are generated as a milestone of the research project proposed for the [MOLSSI Seed-Fellowship](https://molssi.org/2020b-seed-software-fellows/) (Fellowship agreement No.480388) supported by the National Science Foundation.
 
 
 ## Reference
