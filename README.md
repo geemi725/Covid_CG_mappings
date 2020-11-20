@@ -1,16 +1,49 @@
 # Coarse-grained (CG) structures of SARS-CoV-2 related proteins 
-
+![abs_graphic](img/CG_mapping_covid_git2.png)
 This is a data repository of  Coarse-grained structures of SARS-CoV-2/COVID-19 related biomolecules.
 These CG structutres are generated from [DSGPM](https://github.com/rochesterxugroup/DSGPM) neural network model. 
 
 Please note that non-bonded protein chains/segments are coarse-grained separately. Each structure contain multiple mappings with different resolutions. Furthermore, HETAM entries of the original PDB files are removed.
+
+## Available Structures
+| PDB ID      | Segments     | No. of mappings     |
+| :-------------: | :----------: | :-----------: |
+| 1r42 | Whole structure   | 20    |
+| 1r4l  | Whole structure| 20 |
+| 2ajf| SPIKE| 18|
+|2fe8 |CHAIN A  |24 |
+| | CHAIN B| 23|
+| | CHAIN C| 24 |
+|4ow0 | Whole structure| 12 |
+|6lu7 | Whole structure | 15 |
+|6lxt | CHAIN A| 15 |
+| |CHAIN B | 15 |
+| |CHAIN C| 15 | 
+| 6m03 | Whole structure | 7 |
+| 6m17 | CHAIN A| 16|
+| | CHAIN C| 16 |
+| | CHAIN E | 12 |
+| | CHAIN F| 12|
+|6m71 | NSP7  | 10 |
+| |NSP8 | 15 |
+|6vw1 |RBD | 20 |
+|6w41 | Whole structure | 17 |
+|6y2f | Whole structure| 9 |
+|6y2g | Whole structure | 17 |
+| 7bv1| NSP7 | 10|
+| |NSP8 | 19 |
+|7bv2 | NSP7| 10 |
+| | NSP8| 17|
+| | PRIMER| 6 |
+| |TEMPLETE | 6 |
+
 ## Funding 
-These structures are generated as a milestone of the research project proposed for the MOLSSI Seed-Fellowship.
+These structures are generated as a milestone of the research project proposed for the [MOLSSI Seed-Fellowship](https://molssi.org/2020b-seed-software-fellows/) (Fellowship agreement No.480388) supported by the National Science Foundation.
 
 
-## Reference
+## For Citations 
 
-If you use these models or our model to generate CG mappings, please cite our paper [https://doi.org/10.1039/D0SC02458A]
+If you use these models or our model to generate CG mappings, please cite our [paper](https://doi.org/10.1039/D0SC02458A)
 
 
 ```
